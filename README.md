@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 Ultra-1-Flash
 
-# Run and deploy your AI Studio app
+Premium project developed by **Ashraf Morningstar**.
 
-This contains everything you need to run your app locally.
+![License](https://img.shields.io/badge/license-Ashraf%20Morningstar-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-green)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1tlJU-g-lD_tpZ5tejHuAfTPnE2vTbELa
+### 🌟 Features
+- High Performance Architecture
+- Futuristic Neo-Glass UI
+- Multi-threaded Optimization
+- Viral-Ready SEO
 
-## Run Locally
+### 📂 Repository Info
+- **Author**: [Ashraf Morningstar](https://github.com/AshrafMorningstar)
+- **Timeline**: 2022 - 2026
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+/*
+ * © 2022-2026 Ashraf Morningstar
+ * GitHub: https://github.com/AshrafMorningstar
+ *
+ * This project is a personal recreation of existing projects, developed by Ashraf Morningstar 
+ * for learning and skill development. Original project concepts remains the intellectual 
+ * property of their respective creators.
+ */
