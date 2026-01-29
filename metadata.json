@@ -1,0 +1,5 @@
+{
+  "name": "BEST GitChronicle",
+  "description": "A sophisticated GitHub history simulation bot that generates realistic commit history, pull requests, and issues to populate contribution graphs and unlock achievements using the GitHub API and Gemini AI.",
+  "requestFramePermissions": []
+}
